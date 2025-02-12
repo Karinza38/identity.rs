@@ -79,7 +79,7 @@
   },
   "dependencies": {
     "@noble/ed25519": "^1.7.3",
-    "@types/node-fetch": "^2.6.2",
+    "@types/node-fetch": "^2.6.12",
     "base64-arraybuffer": "^1.0.2",
     "jose": "^5.9.6",
     "node-fetch": "^2.6.7"
